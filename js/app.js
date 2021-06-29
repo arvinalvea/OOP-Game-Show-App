@@ -3,3 +3,5 @@
  * app.js */
 
 const game = new Game();
+
+game.getRandomPhrase().addPhraseToDisplay();
